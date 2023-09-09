@@ -1,0 +1,45 @@
+
+.createMainDiv{
+  background-color: aquamarine;
+  height: 100vh;
+}
+.headingDiv{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+.headingCreate{
+  font-family: cursive;
+  text-align: center;
+  color: white;
+}
+.headingCreate:hover{
+  color: aqua;
+}
+.blogsLink{
+  color: antiquewhite;
+}
+.backBtn{
+  border-radius: 25px;
+  color: aqua;
+  background-color: cornflowerblue;
+  text-decoration: none;
+}
+.textAreaHeading{
+  background-color: azure;
+  
+  text-align: center;
+  border-radius: 20px;
+}
+.textAreaContent{
+  background-color: rgb(215, 245, 250);
+}
+.contendDiv{
+  text-align: center;
+}
+.Dtitle{
+  color: black;
+}
+.Dcontent{
+  color: brown;
+}
